@@ -1,8 +1,8 @@
-### Hi there 👋
+### Howdy 👋
 
 I'm Kashyap, I automate and manage servers for living.
 
-🌱 I’m currently learning K8s aka Kubernetes!
+🔭 I’m currently working on my homelab and various home automations!
 <!--
 **kashyapsavaliya/kashyapsavaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
